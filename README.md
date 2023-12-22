@@ -1,6 +1,6 @@
 # JavaScript AJAX & JSON Practice Projects
 
-This repository is a collection of practice projects designed to hone your skills in JavaScript with AJAX and JSON. The focus is on developing strong logic and understanding API interactions, not on UI design or aesthetics. TailwindCSS is used for rapid prototyping to keep the focus on JS functionality.
+This repository is a collection of practice projects I did to hone my skills in JavaScript with AJAX and JSON. The focus is on developing strong logic and understanding API interactions, not on UI design or aesthetics. TailwindCSS is used for rapid prototyping to keep the focus on JS functionality.
 
 ## What you'll find here
 
